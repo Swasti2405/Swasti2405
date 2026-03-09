@@ -16,7 +16,7 @@ I'm a graduate student in Computer Science at NC State Univeristy with an intere
   
 
 ## 📌 What I'm Looking For
-- Collaborative projects that solve meaningful problems - would love to work on Software Development project and AI&ML codes.
+- Collaborative projects that solve meaningful problems - would love to work on Software Development projects and AI&ML codes.
 
 ## 🤝 Let’s Connect
 - 💼 LinkedIn: https://www.linkedin.com/in/swasti-sadanand/
